@@ -1,0 +1,8 @@
+test:
+  sessions:
+    default:
+      database: mongoid_map_reduce_helper_test
+      hosts:
+        - localhost:27017
+      options:
+        consistency: :strong
