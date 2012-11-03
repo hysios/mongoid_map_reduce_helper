@@ -6,7 +6,7 @@ TODO: Write a gem description
 
 Add this line to your application's Gemfile:
 
-    gem 'mongoid_map_reduce_helper'
+    gem 'mongoid_map_reduce_helper', :github => 'hysios/mongoid_map_reduce_helper'
 
 And then execute:
 
