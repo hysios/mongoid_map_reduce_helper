@@ -1,3 +1,6 @@
+require 'mongoid'
+require 'mongoid/criteria'
+
 module MongoidMapReduceHelper
   module Helper
     extend ActiveSupport::Concern
